@@ -1,4 +1,4 @@
-# 7 Days To Die Mod: Entrenching Tool
+# 7 Days To Die Mod: Beaker Recipe
 ## Description
 Modlet adds a recipe to enable beaker crafting.
 
