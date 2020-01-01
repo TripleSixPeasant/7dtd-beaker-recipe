@@ -1,0 +1,9 @@
+<configs>
+
+	<append xpath="/lootcontainers/lootgroup[@name='schematicsModsRare']">
+		<item name="666_toolBeakerSchematic" />
+	</append>
+
+	<set xpath="/lootcontainers/lootgroup[@name='rareBooks']/item[@group='schematicsModsRare']/@prob">20</set>
+
+</configs>

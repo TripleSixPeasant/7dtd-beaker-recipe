@@ -1,0 +1,3 @@
+Key,Source,Context,Changes,English
+perkYeahScienceRank3LongDesc,progression,Perk,666Changed,"Your friends call you the chemist and your enemies go boom. Craft first aid kits, beakers, steroids, military fiber and hub cap mines."
+666_toolBeakerSchematic,items,Item,666Changed,Beaker Schematic
