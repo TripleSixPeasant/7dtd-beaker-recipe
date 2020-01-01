@@ -8,3 +8,4 @@
 - `toolBeaker` unlocked by `perkYeahScience` at L3 and by reading `666_toolBeakerSchematic`
 - Perk description: `perkYeahScienceRank3LongDesc`
 - Lootgroup `rareBooks`: added `666_toolBeakerSchematic` to the group
+- Sell price to 75 (15 base)

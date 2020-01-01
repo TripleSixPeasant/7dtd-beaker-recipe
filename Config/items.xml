@@ -4,6 +4,8 @@
 		<property name="UnlockedBy" value="perkYeahScience,666_toolBeakerSchematic" />
 	</append>
 
+	<set xpath="/items/item[@name='toolBeaker']/property[@name='EconomicValue']/@value">75</set>
+
 	<append xpath="/items">
 		<item name="666_toolBeakerSchematic">
 			<property name="Extends" value="schematicNoQualityMaster" />
